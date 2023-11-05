@@ -16,13 +16,13 @@ const HeroSection = () => {
       imgSrc: "/img/1697813233498.jpeg",
     },
     {
-      imgSrc: "/img/gallery/1697813100282.jpeg",
+      imgSrc: "/img/1697813100282.jpeg",
     },
     {
-      imgSrc: "/img/gallery/1697813100278.jpeg",
+      imgSrc: "/img/1697813100278.jpeg",
     },
     {
-      imgSrc: "/img/gallery/FB_IMG_1697812283144.jpg",
+      imgSrc: "/img/FB_IMG_1697812283144.jpg",
     },
   ];
 
