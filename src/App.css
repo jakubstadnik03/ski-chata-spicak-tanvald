@@ -223,7 +223,11 @@
   text-decoration: underline;
 }
 
-
+@media (max-height: 786px) {
+  .contact-container {
+    height: 90vh;
+  }
+}
 
 @media (max-width: 768px) {
 .hero-content-box {

@@ -7,7 +7,7 @@ const ContactForm = () => {
   return (
     <div
       className="contact-container"
-      style={{ backgroundImage: "url(./img/1697813233498.jpeg)" }}
+      style={{ backgroundImage: "url(/img/1697813233498.jpeg)" }}
       id="kontakt"
     >
       <div className="overlay">

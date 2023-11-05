@@ -43,7 +43,9 @@ const HeroSection = () => {
         <h1 className="mb-3 fs-3 fs-md-4">{t("hero.title")}</h1>
         <h2 className="mb-2 fs-4 fs-md-5">{t("hero.subtitle")}</h2>
         <p className="fs-6 fs-md-7">{t("hero.description")}</p>
-        <p className="uppercase">{t("hero.callToAction")}</p>
+        <p className="uppercase" style={{ fontSize: "15px" }}>
+          {t("hero.callToAction")}
+        </p>
       </div>
       <a href="#ubytovani">
         <img
