@@ -5,10 +5,7 @@ const PopisUbytovani = () => {
   const { t } = useTranslation();
 
   return (
-    <section
-      className="max-width max-width-m popis-ubytovani"
-      style={{ marginTop: "-30px" }}
-    >
+    <section className="max-width max-width-m popis-ubytovani">
       <h2
         className="max-width title-black title mb-lg-5 mb-sm-2"
         id="ubytovani"

@@ -87,7 +87,9 @@
   font-family: 'Cinzel', serif;
   padding: 50px;
 }
-
+.popis-ubytovani {
+  margin-bottom: -30px;
+}
 /* Navbar styling to make it overlay on top of the carousel (adjust as per your navbar styles) */
 .navbar {
   position: absolute;
@@ -225,7 +227,7 @@
 
 @media (max-height: 786px) {
   .contact-container {
-    height: 92vh;
+    height: 94vh;
   }
 }
 
@@ -270,7 +272,7 @@ font-size: 18px !important;
   top: -80px;
 }
 .contact-container {
-  height: 85vh;
+  height: 90vh;
 }
 .overlay {
   padding: 20px 0;
@@ -280,5 +282,6 @@ font-size: 18px !important;
 }
 .popis-ubytovani{
   margin-bottom: -30px;
+  margin-top: 0;
 }
 }

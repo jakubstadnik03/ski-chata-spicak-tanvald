@@ -7,11 +7,11 @@ const Footer = () => {
         className="footer-content p-2 d-flex justify-content-center"
         style={{ backgroundColor: "black" }}
       >
-        <a href="/">
+        <a href="/" className="d-flex">
           <img src="/svg/logo-skichata-spicak-tanvald.svg" alt="" />
         </a>
         <div className="line"></div>
-        <div className="social-wrapper">
+        <div className="social-wrapper d-sm-flex flex-column flex-lg-row justify-content-center align-items-center">
           <a
             href="https://www.facebook.com/profile.php?id=100090236622013"
             target="_blank"
