@@ -1,0 +1,280 @@
+.navbar-text {
+  text-transform: uppercase;
+  font-family: 'Cinzel', serif;
+}
+.rezervovat-btn {
+  border: 2px solid #009BDE !important;
+  border-radius: 0;  /* Makes the button a rectangle */
+  background-color: transparent;  /* Initially, no background color */
+  transition: background-color 0.3s ease;
+  padding-top: 10px;
+  padding-bottom: 1px ;  
+
+}
+
+.rezervovat-btn:hover {
+  background-color: #009BDE;
+  color: white !important;  /* Change text color to white on hover */
+}
+.hero-section {
+  position: relative;
+  height: 100vh;
+  top: -82px;
+}
+.nav-link{
+  margin-left: 10px;
+}
+.navbar-toggler{
+  margin-right: 10px;
+}
+
+.hero-section .carousel-item img {
+  height: 100vh;
+  object-fit: cover;
+}
+.place-details {
+  padding: 50px 0;
+}
+
+.icon-down{
+  z-index: 999;
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  transition: transform 0.3s ease; /* animation transition */
+}
+
+.icon-down:hover {
+  transform: translateY(5px); /* move a little bit down */
+  cursor: pointer;
+}
+.carousel-indicators{
+  bottom: 50px !important;
+}
+
+.place-carousel .carousel-image {
+  height: 400px;
+  object-fit: cover;
+}
+
+.description-text,
+.address-text {
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+/* Assuming your outermost container has a class of "app-container" */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Take full viewport height */
+}
+
+/* Assuming your main content wrapper has a class of "content-wrapper" */
+.content-wrapper {
+  flex: 1; /* This allows the content to grow and take up any available space, pushing the footer down */
+}
+
+.hero-content-box {
+  max-width: 700px; /* or whatever width you desire */
+  background-color: #575656f5 ; /* semi-transparent black background */
+  color: white;
+  position: absolute;
+  top: 30%; /* adjust based on your needs */
+  left: 10%; /* adjust based on your needs */
+  font-family: 'Cinzel', serif;
+  padding: 50px;
+}
+
+/* Navbar styling to make it overlay on top of the carousel (adjust as per your navbar styles) */
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1; 
+  background-color: #575656d4;
+} 
+/* Ensure each column is flex and stretches to full height */
+.info-row {
+  display: flex;
+}
+
+.info-col {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Custom bullet styles */
+.info-col ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.info-col li {
+  position: relative;
+  padding-left: 25px; /* space for custom bullet */
+}
+
+.info-col li::before {
+  content: "";
+  position: absolute;
+  left: 5px;
+ top: 12px;
+  transform: translateY(-50%);
+  width: 12px; /* bullet diameter */
+  height: 12px;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+  background-color: transparent; /* empty inside */
+}
+.info-col h4{
+  font-size: 16px;
+
+}
+.contact-container {
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  width: 100%;
+  height: 70vh;
+}
+
+.overlay {
+  background-color: rgba(255, 255, 255, 0.849);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 50px 0;
+}
+.form-control {
+  background-color: transparent !important;
+  border: 1px solid black !important;
+  border-radius: 0 !important; /* This will give the input fields sharp corners */
+  color: black; /* Change text color if necessary */
+}
+
+.form-control::placeholder {
+  color: black; /* Adjust placeholder color if necessary */
+}
+
+.form-control:focus {
+  background-color: transparent;
+  border: 1px solid black;
+  box-shadow: none; /* This will remove the default Bootstrap focus shadow */
+}
+.line{
+  width: 1px;
+  background-color: white;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.cottage-gallery-img {
+  object-fit: cover; /* Ensures images cover the area without stretching */
+  background-color: transparent; /* Removes white background */
+  height: 200px; /* Adjust the height as needed */
+  width: 100%;
+  cursor: pointer;
+}
+.custom-modal .modal-dialog {
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.custom-modal .modal-content {
+  overflow: auto;
+}
+
+.custom-modal .carousel-item img {
+  max-height: 80vh;
+  object-fit: contain;
+  margin: auto;
+}
+.carousel-indicators {
+  margin-bottom: 0 !important;
+}
+
+
+.place-box {
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.place-box:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.place-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.place-link:hover {
+  text-decoration: underline;
+}
+
+
+
+@media (max-width: 768px) {
+.hero-content-box {
+  left: 0;
+  padding: 10px;
+}
+.hero-section .carousel-item img {
+  height: 50vh;
+}
+.hero-content-box {
+  background-color: #575656d2 ; 
+  top: 71%;
+}
+.hero-content-box h1{
+  font-size: 20px !important;
+}
+.hero-content-box p{
+  font-size: 15px !important;
+}
+.hero-content-box h2{
+font-size: 18px !important;
+}
+.icon-down{
+  display: none ;
+}
+.rezervovat-btn{
+  width: 115px;
+  padding: 2px !important;
+}
+.navbar-toggler{
+  margin-right: 20px;
+}
+.carousel-indicators {
+  bottom: 0 !important;
+}
+.hero-section {
+  height: 70vh;
+}
+.hero-section {
+  top: -80px;
+}
+.contact-container {
+  height: 85vh;
+}
+.overlay {
+  padding: 20px 0;
+}
+.rozlozeni{
+  margin-bottom: -45px;
+}
+.popis-ubytovani{
+  margin-bottom: -30px;
+}
+}

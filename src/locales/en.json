@@ -1,0 +1,113 @@
+{
+    "nav": {
+      "home": "Home",
+      "gallery": "Gallery",
+      "excursions": "Excursions",
+      "contact": "Contact",
+      "book": "Book"
+    },
+    
+      "contact": {
+        "title": "Contact Us",
+        "subtitle": "Do not hesitate to contact us with any questions",
+        "form": {
+          "name": "YOUR NAME:",
+          "namePlaceholder": "First and Last Name",
+          "email": "YOUR EMAIL:",
+          "emailPlaceholder": "example@example.com",
+          "phone": "YOUR PHONE:",
+          "phonePlaceholder": "777 777 777",
+          "message": "MESSAGE FOR US:",
+          "messagePlaceholder": "Here you can ask us anything, e.g., about availability...",
+          "submit": "SEND"
+        },
+        "info": "If you are interested in renting our unique Ski Chata Špičák Tanvald, please contact us via email or the contact form.",
+        "name": "FRANTIŠEK BRÁZDIL",
+        "addressLabel": "ADDRESS",
+        "address": "Tanvald 596, 468 41 Tanvald",
+        "phoneLabel": "PHONE",
+        "phone": "+420 773 112 121",
+        "emailLabel": "EMAIL",
+        "email": "fr.brazdil@seznam.cz"
+      },
+      "hero": {
+
+        "title": "Ski Chata Špičák Tanvald",
+        "subtitle": "Accommodation for large groups near Tanvaldský Špičák ski resort",
+        "description": "We offer you a beautiful chalet at Tanvaldský Špičák, ideal for school trips and large groups. Our spacious rooms are also a great choice for family vacations.",
+        "callToAction": "Book now and experience beautiful moments in the mountains with adventure!",
+        "scrollDown": "Scroll down"
+      },
+      "description": {
+        "title": "Description of Our Accommodation",
+        "paragraph1": "Our enchanting mountain chalet is situated right at the summit of the Tanvaldský Špičák ski area. With its location and facilities, it is popular for families with children as well as individuals.",
+        "paragraph2": "A skier's paradise in winter and an adventure-filled vacation in summer - you'll find it all in one place.",
+        "paragraph3": "We traditionally host accommodations for ski training, nature schools, school trips, health stays, birthday parties, weddings, and corporate events. If interested, we also organize programs for these events.",
+        "paragraph4": "Our chalet offers comfortable and spacious accommodations for various needs. With a capacity of up to 34 people, we have 4 rooms that are ideal for large groups, school trips, or ski courses. Each room is cozily furnished and offers comfortable beds for a restful sleep after a demanding day in the mountains.",
+        "paragraph5": "For those who prefer more privacy, we also have an apartment for 2-3 persons. This apartment is equipped with its own toilet and bathroom, providing independence and privacy during your stay. All rooms and apartments are tastefully furnished and provide a cozy and warm space where you can relax and recharge for further experiences at Tanvaldský Špičák.",
+        "paragraph6": "Ski Chalet Špičák Tanvald offers not only great accommodation but also additional benefits. Our renovated restaurant, lounge, and outdoor terrace with a fireplace and grill are suitable for your social gatherings. In winter, we look forward to skiers and have a ski room prepared for them. In summer, you will find various attractions for children and refreshment in the outdoor pool. And we don't forget about your pets - we have a dog pool for them on hot days.",
+        "closing": "We look forward to you and the joint adventures that await us. Come and create your own unforgettable moments at Ski Chalet Špičák Tanvald."
+      },
+      "floorPlan": {
+        "title": "Layout of Our Chalet",
+        "firstFloor": "First Floor",
+        "secondFloor": "Second Floor"
+      },
+        "accommodationInfo": {
+          "title": "Accommodation Information",
+          "interiorHeader": "Interior",
+          "roomsTitle": "Rooms",
+          "roomsList": [
+            "4 rooms with a capacity of 34 beds (rooms with 12, 10, 5, 4 beds)",
+            "Rooms share common men's and women's toilets with shower cubicles and 2 bathrooms with 5 showers",
+            "Rooms are equipped with bunk beds, a wardrobe with storage shelves, a table, and chairs",
+            "Apartment for up to 3 people with private bathroom and toilet is equipped with a double bed and a single bed"
+          ],
+          "otherTitle": "Other",
+          "otherList": [
+            "Renovated restaurant for guests",
+            "Lounge for smaller groups",
+            "Ski room for storing skis during the winter season",
+            "Bike storage during the summer season"
+          ],
+          "exteriorHeader": "Exterior",
+          "exteriorList": [
+            "Outdoor terrace with beautiful views and seating area",
+            "Fireplace for campfire and grill",
+            "For children, we have swings, slides, a sandbox, and a trampoline",
+            "Outdoor pool for refreshment during the summer months",
+            "Special pool for pets on hot days",
+            "Parking ensured on the cottage grounds"
+          ],
+          "generalHeader": "General",
+          "generalList": [
+            "The chalet is adjacent to the cable car for easy access to the slopes",
+            "Modern buffet-style restaurant offering Czech and a la minute cuisine, delicious desserts, and a rich selection of cold and hot drinks, quality beer, and wine",
+            "For our accommodated guests, we have prepared breakfast, for larger groups of guests we offer the possibility of half board or full board",
+            "During the summer season, balls and tennis rackets are available for sports activities in the beautiful surroundings of our chalet",
+            "Possibility to organize ski training, school in nature, school trips, convalescent stays, birthday parties, weddings, and corporate events"
+          ]
+        },        
+          "locationComponent": {
+            "title": "Location",
+            "address": "Address",
+            "addressDetails": "Tanvald 596, 468 41 Tanvaldský Špičák",
+            "description": "The Špičák Tanvald chalet boasts an exceptional location right on the ski slopes, meaning you can start your skiing day right from our doorstep. In addition, we are just a short distance from shops and we also have an outdoor pool for refreshment.",
+            "visitPlacesButton": "Places to visit nearby"
+        },
+        "gallery": {
+          "title": "Photo Gallery Ski Chata Špičák Tanvald",
+          "images": "imagesEn.json"
+        },
+        "places": {
+          "title": "Places to visit around Tanvaldský Špičák."
+        }
+      
+
+        
+      
+      
+    
+    
+  }
+  

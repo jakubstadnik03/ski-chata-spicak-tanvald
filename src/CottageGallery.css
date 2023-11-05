@@ -1,0 +1,45 @@
+.cottage-gallery h1 {
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .gallery-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  
+  .gallery-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .gallery-card img {
+    height: 200px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  
+  .custom-modal .modal-dialog {
+    max-height: 90vh;
+  }
+  
+  .custom-modal .modal-content {
+    background-color: rgba(0, 0, 0, 0.75); /* Dark background with transparency */
+    color: white;
+    border: none;
+    border-radius: 0;
+  }
+  
+  .custom-modal .carousel-item img {
+    max-height: 80vh;
+    object-fit: contain;
+    margin: auto;
+  }
+  
+  .custom-modal .carousel-caption p {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

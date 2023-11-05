@@ -1,0 +1,443 @@
+{
+    "cs":{
+    "Fotografie interiéru Skichaty": [
+      {
+        "img": "1697813100252.jpg",
+        "desc": "Vnitřní restaurace a bar"
+      },
+      {
+        "img": "1697813100268.jpeg",
+        "desc": "Vnitřní pokoje Skichaty"
+      },
+      {
+        "img": "1697813100273.jpeg",
+        "desc": "Vnitřní restaurace a bar"
+      }
+    ],
+    "Fotografie extriéru Skichaty a přírody": [
+      {
+        "img": "1697813100246.jpg",
+        "desc": "Výhled na sjezdovku z Skichatu"
+      },
+      {
+        "img": "1697813100258.jpg",
+        "desc": "Venkovní výhled na chatu"
+      },
+      {
+        "img": "1697813100264.jpeg",
+        "desc": "Skichata v zimním obdobím"
+      },
+      {
+        "img": "1697813100278.jpeg",
+        "desc": "Skichata v zimním obdobím"
+      },
+      {
+        "img": "1697813100282.jpeg",
+        "desc": "Skichata v zimním obdobím"
+      },
+      {
+        "img": "1697813233432.jpeg",
+        "desc": "Tábořiště a venkovní sezení"
+      },
+      {
+        "img": "1697813233439.jpeg",
+        "desc": "Venkovní sezení u chaty"
+      },
+      {
+        "img": "1697813233444.jpeg",
+        "desc": "Tábořiště a venkovní sezení"
+      },
+      {
+        "img": "1697813233453.jpeg",
+        "desc": "Tábořiště a venkovní sezení"
+      },
+      {
+        "img": "1697813233459.jpeg",
+        "desc": "Tábořiště a venkovní sezení"
+      },
+      {
+        "img": "1697813233465.jpeg",
+        "desc": "Tábořiště a venkovní sezení"
+      },
+      {
+        "img": "1697813233472.jpeg",
+        "desc": "Skichata a okolní příroda"
+      },
+      {
+        "img": "1697813233486.jpeg",
+        "desc": "Skichata a okolní příroda"
+      },
+      {
+        "img": "1697813233498.jpeg",
+        "desc": "Skichata a okolní příroda"
+      },
+      {
+        "img": "1697813233506.jpeg",
+        "desc": "Skichata a okolní příroda"
+      },
+      {
+        "img": "1697813233513.jpeg",
+        "desc": "Opékání buřtů u skichaty"
+      },
+      {
+        "img": "1697813233518.jpeg",
+        "desc": "Skichata Špičák Tanvald"
+      },
+      {
+        "img": "1697813233522.jpeg",
+        "desc": "Příroda u Skichata Špičák Tanvald"
+      },
+      {
+        "img": "1697813233527.jpeg",
+        "desc": "Skichata Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812283144.jpg",
+        "desc": "Skichata v zimním období"
+      },
+      {
+        "img": "FB_IMG_1697812289526.jpg",
+        "desc": "Skichata Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812329365.jpg",
+        "desc": "Bazén u chaty"
+      },
+      {
+        "img": "FB_IMG_1697812341797.jpg",
+        "desc": "Bazén u chaty"
+      },
+      {
+        "img": "FB_IMG_1697812346092.jpg",
+        "desc": "Skichata Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812349574.jpg",
+        "desc": "Skichata Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812352792.jpg",
+        "desc": "Venkovní sezení u chaty"
+      },
+      {
+        "img": "FB_IMG_1697812443714.jpg",
+        "desc": "Skichata Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812447080.jpg",
+        "desc": "Venkovní sezení u chaty v zimě"
+      },
+      {
+        "img": "FB_IMG_1697812456924.jpg",
+        "desc": "Skichata Špičák Tanvald v zimě"
+      },
+      {
+        "img": "FB_IMG_1697812459657.jpg",
+        "desc": "Skichata Špičák Tanvald v zimě"
+      },
+      {
+        "img": "FB_IMG_1697812468173.jpg",
+        "desc": "Skichata Špičák Tanvald v zimě"
+      },
+      {
+        "img": "FB_IMG_1697812472705.jpg",
+        "desc": "Skichata Špičák Tanvald v zimě"
+      }
+    ]
+    },
+"en": {
+    "Interior Photography of the Ski Hut": [
+      {
+        "img": "1697813100252.jpg",
+        "desc": "Inside the restaurant and bar"
+      },
+      {
+        "img": "1697813100268.jpeg",
+        "desc": "Interior rooms of the Ski Hut"
+      },
+      {
+        "img": "1697813100273.jpeg",
+        "desc": "Inside the restaurant and bar"
+      }
+    ],
+    "Exterior Photography of the Ski Hut and Nature": [
+      {
+        "img": "1697813100246.jpg",
+        "desc": "View of the slope from the Ski Hut"
+      },
+      {
+        "img": "1697813100258.jpg",
+        "desc": "Outdoor view of the hut"
+      },
+      {
+        "img": "1697813100264.jpeg",
+        "desc": "Ski Hut in the winter season"
+      },
+      {
+        "img": "1697813100278.jpeg",
+        "desc": "Ski Hut in the winter season"
+      },
+      {
+        "img": "1697813100282.jpeg",
+        "desc": "Ski Hut in the winter season"
+      },
+      {
+        "img": "1697813233432.jpeg",
+        "desc": "Campfire and outdoor seating"
+      },
+      {
+        "img": "1697813233439.jpeg",
+        "desc": "Outdoor seating by the hut"
+      },
+      {
+        "img": "1697813233444.jpeg",
+        "desc": "Campfire and outdoor seating"
+      },
+      {
+        "img": "1697813233453.jpeg",
+        "desc": "Campfire and outdoor seating"
+      },
+      {
+        "img": "1697813233459.jpeg",
+        "desc": "Campfire and outdoor seating"
+      },
+      {
+        "img": "1697813233465.jpeg",
+        "desc": "Campfire and outdoor seating"
+      },
+      {
+        "img": "1697813233472.jpeg",
+        "desc": "Ski Hut and surrounding nature"
+      },
+      {
+        "img": "1697813233486.jpeg",
+        "desc": "Ski Hut and surrounding nature"
+      },
+      {
+        "img": "1697813233498.jpeg",
+        "desc": "Ski Hut and surrounding nature"
+      },
+      {
+        "img": "1697813233506.jpeg",
+        "desc": "Ski Hut and surrounding nature"
+      },
+      {
+        "img": "1697813233513.jpeg",
+        "desc": "Grilling sausages near the ski hut"
+      },
+      {
+        "img": "1697813233518.jpeg",
+        "desc": "Ski Hut Špičák Tanvald"
+      },
+      {
+        "img": "1697813233522.jpeg",
+        "desc": "Nature around Ski Hut Špičák Tanvald"
+      },
+      {
+        "img": "1697813233527.jpeg",
+        "desc": "Ski Hut Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812283144.jpg",
+        "desc": "Ski Hut in the winter season"
+      },
+      {
+        "img": "FB_IMG_1697812289526.jpg",
+        "desc": "Ski Hut Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812329365.jpg",
+        "desc": "Pool by the hut"
+      },
+      {
+        "img": "FB_IMG_1697812341797.jpg",
+        "desc": "Pool by the hut"
+      },
+      {
+        "img": "FB_IMG_1697812346092.jpg",
+        "desc": "Ski Hut Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812349574.jpg",
+        "desc": "Ski Hut Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812352792.jpg",
+        "desc": "Outdoor seating by the hut"
+      },
+      {
+        "img": "FB_IMG_1697812443714.jpg",
+        "desc": "Ski Hut Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812447080.jpg",
+        "desc": "Outdoor seating by the hut in winter"
+      },
+      {
+        "img": "FB_IMG_1697812456924.jpg",
+        "desc": "Ski Hut Špičák Tanvald in winter"
+      },
+      {
+        "img": "FB_IMG_1697812459657.jpg",
+        "desc": "Ski Hut Špičák Tanvald in winter"
+      },
+      {
+        "img": "FB_IMG_1697812468173.jpg",
+        "desc": "Ski Hut Špičák Tanvald in winter"
+      },
+      {
+        "img": "FB_IMG_1697812472705.jpg",
+        "desc": "Ski Hut Špičák Tanvald in winter"
+      }
+    ]
+  },
+  "de": {
+    "Fotografie des Interieurs der Skihütte": [
+      {
+        "img": "1697813100252.jpg",
+        "desc": "Inneres Restaurant und Bar"
+      },
+      {
+        "img": "1697813100268.jpeg",
+        "desc": "Innenräume der Skihütte"
+      },
+      {
+        "img": "1697813100273.jpeg",
+        "desc": "Inneres Restaurant und Bar"
+      }
+    ],
+    "Fotografie des Exterieurs der Skihütte und der Natur": [
+      {
+        "img": "1697813100246.jpg",
+        "desc": "Blick auf die Skipiste von der Skihütte"
+      },
+      {
+        "img": "1697813100258.jpg",
+        "desc": "Außenansicht auf die Hütte"
+      },
+      {
+        "img": "1697813100264.jpeg",
+        "desc": "Die Skihütte im Winter"
+      },
+      {
+        "img": "1697813100278.jpeg",
+        "desc": "Die Skihütte im Winter"
+      },
+      {
+        "img": "1697813100282.jpeg",
+        "desc": "Die Skihütte im Winter"
+      },
+      {
+        "img": "1697813233432.jpeg",
+        "desc": "Lagerfeuer und Außensitzplätze"
+      },
+      {
+        "img": "1697813233439.jpeg",
+        "desc": "Außensitzplätze an der Hütte"
+      },
+      {
+        "img": "1697813233444.jpeg",
+        "desc": "Lagerfeuer und Außensitzplätze"
+      },
+      {
+        "img": "1697813233453.jpeg",
+        "desc": "Lagerfeuer und Außensitzplätze"
+      },
+      {
+        "img": "1697813233459.jpeg",
+        "desc": "Lagerfeuer und Außensitzplätze"
+      },
+      {
+        "img": "1697813233465.jpeg",
+        "desc": "Lagerfeuer und Außensitzplätze"
+      },
+      {
+        "img": "1697813233472.jpeg",
+        "desc": "Die Skihütte und die umliegende Natur"
+      },
+      {
+        "img": "1697813233486.jpeg",
+        "desc": "Die Skihütte und die umliegende Natur"
+      },
+      {
+        "img": "1697813233498.jpeg",
+        "desc": "Die Skihütte und die umliegende Natur"
+      },
+      {
+        "img": "1697813233506.jpeg",
+        "desc": "Die Skihütte und die umliegende Natur"
+      },
+      {
+        "img": "1697813233513.jpeg",
+        "desc": "Würstchengrillen an der Skihütte"
+      },
+      {
+        "img": "1697813233518.jpeg",
+        "desc": "Skihütte Špičák Tanvald"
+      },
+      {
+        "img": "1697813233522.jpeg",
+        "desc": "Natur um die Skihütte Špičák Tanvald"
+      },
+      {
+        "img": "1697813233527.jpeg",
+        "desc": "Skihütte Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812283144.jpg",
+        "desc": "Die Skihütte im Winter"
+      },
+      {
+        "img": "FB_IMG_1697812289526.jpg",
+        "desc": "Skihütte Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812329365.jpg",
+        "desc": "Pool bei der Hütte"
+      },
+      {
+        "img": "FB_IMG_1697812341797.jpg",
+        "desc": "Pool bei der Hütte"
+      },
+      {
+        "img": "FB_IMG_1697812346092.jpg",
+        "desc": "Skihütte Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812349574.jpg",
+        "desc": "Skihütte Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812352792.jpg",
+        "desc": "Außensitzplätze an der Hütte"
+      },
+      {
+        "img": "FB_IMG_1697812443714.jpg",
+        "desc": "Skihütte Špičák Tanvald"
+      },
+      {
+        "img": "FB_IMG_1697812447080.jpg",
+        "desc": "Außensitzplätze an der Hütte im Winter"
+      },
+      {
+        "img": "FB_IMG_1697812456924.jpg",
+        "desc": "Skihütte Špičák Tanvald im Winter"
+      },
+      {
+        "img": "FB_IMG_1697812459657.jpg",
+        "desc": "Skihütte Špičák Tanvald im Winter"
+      },
+      {
+        "img": "FB_IMG_1697812468173.jpg",
+        "desc": "Skihütte Špičák Tanvald im Winter"
+      },
+      {
+        "img": "FB_IMG_1697812472705.jpg",
+        "desc": "Skihütte Špičák Tanvald im Winter"
+      }
+    ]
+  }
+  
+  
+  }
+  

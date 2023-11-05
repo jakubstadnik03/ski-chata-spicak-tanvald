@@ -1,0 +1,111 @@
+{
+    "nav": {
+      "home": "Startseite",
+      "gallery": "Fotogalerie",
+      "excursions": "Ausflüge",
+      "contact": "Kontakt",
+      "book": "Reservieren"
+    },
+    
+      "contact": {
+        "title": "Kontaktieren Sie uns",
+        "subtitle": "Zögern Sie nicht, uns zu kontaktieren und Fragen zu stellen",
+        "form": {
+          "name": "IHR NAME:",
+          "namePlaceholder": "Vor- und Nachname",
+          "email": "IHRE E-MAIL:",
+          "emailPlaceholder": "beispiel@beispiel.de",
+          "phone": "IHRE TELEFONNUMMER:",
+          "phonePlaceholder": "777 777 777",
+          "message": "IHRE NACHRICHT AN UNS:",
+          "messagePlaceholder": "Hier können Sie uns alles fragen, z.B. über freie Termine ...",
+          "submit": "SENDEN"
+        },
+        "info": "Wenn Sie an der Miete unserer einzigartigen Ski Hütte Špičák Tanvald interessiert sind, kontaktieren Sie uns per E-Mail oder über das Kontaktformular.",
+        "name": "FRANTIŠEK BRÁZDIL",
+        "addressLabel": "ADRESSE",
+        "address": "Tanvald 596, 468 41 Tanvald",
+        "phoneLabel": "TELEFON",
+        "phone": "+420 773 112 121",
+        "emailLabel": "E-MAIL",
+        "email": "fr.brazdil@seznam.cz"
+      },
+      "hero": {
+        "carouselAlt": "Folie {{index}}",
+        "title": "Skihütte Špičák Tanvald",
+        "subtitle": "Unterkunft für große Gruppen in der Nähe des Skigebiets Tanvaldský Špičák",
+        "description": "Wir bieten Ihnen eine schöne Hütte am Tanvaldský Špičák, ideal für Schulausflüge und große Gruppen. Unsere geräumigen Zimmer sind auch eine großartige Wahl für den Familienurlaub.",
+        "callToAction": "Buchen Sie jetzt und erleben Sie schöne Momente in den Bergen mit Abenteuer!",
+        "scrollDown": "Nach unten scrollen"
+      },
+      "description": {
+        "title": "Beschreibung unserer Unterkunft",
+        "paragraph1": "Unsere bezaubernde Berghütte befindet sich direkt auf dem Gipfel des Skigebiets Tanvaldský Špičák. Sie ist aufgrund ihrer Lage und Ausstattung beliebt bei Familien mit Kindern sowie bei Einzelpersonen.",
+        "paragraph2": "Ein Skifahrerparadies im Winter und ein abenteuerreicher Urlaub im Sommer - all das finden Sie an einem Ort.",
+        "paragraph3": "Traditionell bieten wir Unterkünfte für Skitrainings, Naturschulen, Klassenfahrten, Gesundheitsaufenthalte, Geburtstagsfeiern, Hochzeiten und Firmenveranstaltungen an. Auf Wunsch organisieren wir auch Programme für diese Veranstaltungen.",
+        "paragraph4": "Unsere Hütte bietet komfortable und geräumige Unterkünfte für verschiedene Bedürfnisse. Mit einer Kapazität von bis zu 34 Personen haben wir 4 Zimmer, die ideal für große Gruppen, Klassenfahrten oder Skikurse sind. Jedes Zimmer ist gemütlich eingerichtet und bietet komfortable Betten für einen erholsamen Schlaf nach einem anspruchsvollen Tag in den Bergen.",
+        "paragraph5": "Für diejenigen, die mehr Privatsphäre bevorzugen, haben wir auch ein Apartment für 2-3 Personen. Dieses Apartment ist mit eigener Toilette und Bad ausgestattet und bietet Unabhängigkeit und Privatsphäre während Ihres Aufenthalts. Alle Zimmer und Apartments sind geschmackvoll eingerichtet und bieten einen gemütlichen und warmen Raum, in dem Sie sich entspannen und für weitere Erlebnisse am Tanvaldský Špičák auftanken können.",
+        "paragraph6": "Die Ski Hütte Špičák Tanvald bietet nicht nur großartige Unterkünfte, sondern auch zusätzliche Vorteile. Unser renoviertes Restaurant, der Salon und die Außenterrasse mit Kamin und Grill sind für Ihre gesellschaftlichen Zusammenkünfte geeignet. Im Winter freuen wir uns auf Skifahrer und haben einen Skiraum für sie vorbereitet. Im Sommer finden Sie verschiedene Attraktionen für Kinder und Erfrischung im Außenpool. Und wir vergessen auch Ihre Haustiere nicht - wir haben für sie am heißen Tagen einen Hundepool.",
+        "closing": "Wir freuen uns auf Sie und die gemeinsamen Abenteuer, die auf uns warten. Kommen Sie und schaffen Sie Ihre eigenen unvergesslichen Momente in der Ski Hütte Špičák Tanvald."
+      },
+      "floorPlan": {
+        "title": "Grundriss unseres Chalets",
+        "firstFloor": "Erstes Stockwerk",
+        "secondFloor": "Zweites Stockwerk"
+      },
+        "accommodationInfo": {
+          "title": "Informationen zur Unterkunft",
+          "interiorHeader": "Innenbereich",
+          "roomsTitle": "Zimmer",
+          "roomsList": [
+            "4 Zimmer mit einer Kapazität von 34 Betten (Zimmer mit 12, 10, 5, 4 Betten)",
+            "Zimmer nutzen gemeinsame Herren- und Damentoiletten mit Duschkabinen und 2 Bädern mit 5 Duschen",
+            "Zimmer sind ausgestattet mit Etagenbetten, einem Schrank mit Ablagefächern, einem Tisch und Stühlen",
+            "Apartment für bis zu 3 Personen mit eigenem Bad und WC ist ausgestattet mit einem Doppelbett und einem Einzelbett"
+          ],
+          "otherTitle": "Sonstiges",
+          "otherList": [
+            "Renoviertes Restaurant für Gäste",
+            "Salon für kleinere Gruppen",
+            "Skiraum zur Aufbewahrung der Skier in der Wintersaison",
+            "Fahrradabstellraum in der Sommersaison"
+          ],
+          "exteriorHeader": "Außenbereich",
+          "exteriorList": [
+            "Außenterrasse mit schöner Aussicht und Sitzgelegenheiten",
+            "Feuerstelle für Lagerfeuer und Grill",
+            "Für Kinder haben wir Schaukeln, Rutschen, einen Sandkasten und ein Trampolin",
+            "Außenpool zur Erfrischung in den Sommermonaten",
+            "Spezialpool für Haustiere an heißen Tagen",
+            "Parkplatz auf dem Grundstück der Hütte gesichert"
+          ],
+          "generalHeader": "Allgemein",
+          "generalList": [
+            "Die Hütte grenzt an die Seilbahn für einen einfachen Zugang zu den Pisten",
+            "Modernes Buffet-Restaurant, das tschechische und À-la-carte-Küche, köstliche Desserts und eine reiche Auswahl an kalten und heißen Getränken, Qualitätsbier und Wein bietet",
+            "Für unsere untergebrachten Gäste haben wir Frühstück vorbereitet, für größere Gästegruppen bieten wir die Möglichkeit von Halbpension oder Vollpension",
+            "In der Sommersaison stehen Bälle und Tennisschläger für sportliche Aktivitäten in der schönen Umgebung unserer Hütte zur Verfügung",
+            "Möglichkeit zur Organisation von Skitrainings, Schulen in der Natur, Schulausflügen, Genesungsaufenthalten, Geburtstagsfeiern, Hochzeiten und Firmenveranstaltungen"
+          ]
+        },
+        "locationComponent": {
+          "title": "Standort",
+          "address": "Adresse",
+          "addressDetails": "Tanvald 596, 468 41 Tanvaldský Špičák",
+          "description": "Die Hütte Špičák Tanvald rühmt sich einer außergewöhnlichen Lage direkt an den Skipisten, was bedeutet, dass Sie Ihren Skitag direkt vor unserer Tür beginnen können. Außerdem sind wir nur einen kurzen Weg von den Geschäften entfernt und wir haben auch einen Außenpool zur Abkühlung.",
+          "visitPlacesButton": "In der Nähe zu besuchende Orte"
+        },
+        "gallery": {
+          "title": "Fotogalerie Ski Hütte Špičák Tanvald",
+          "images": "imagesDe.json"
+        },
+        "places": {
+          "title": "Orte, die man in der Umgebung von Tanvaldský Špičák besuchen sollte."
+        }
+      
+      
+      
+    
+    
+  }
+  

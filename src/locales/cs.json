@@ -1,0 +1,110 @@
+{
+    "nav": {
+      "home": "Úvod",
+      "gallery": "Fotogalerie",
+      "excursions": "Výlety",
+      "contact": "Kontakt",
+      "book": "Rezervovat"
+    },
+    
+      "contact": {
+        "title": "Kontaktovat",
+        "subtitle": "Neváhejte nás kontaktovat a na cokoliv se zeptat",
+        "form": {
+          "name": "VAŠE JMÉNO:",
+          "namePlaceholder": "Jméno a příjmení",
+          "email": "VAŠ EMAIL:",
+          "emailPlaceholder": "vzor@vzor.cz",
+          "phone": "VAŠ TELEFON:",
+          "phonePlaceholder": "777 777 777",
+          "message": "ZPRÁVA PRO NÁS:",
+          "messagePlaceholder": "Zde se můžete na cokoliv zeptat, např. na volné termíny...",
+          "submit": "ODESLAT"
+        },
+        "info": "Pokud máte zájem o pronájem naší jedinečné Ski chaty Špičák Tanvald, kontaktujte nás, buď prostřednictvím e-mailu, nebo kontaktního formuláře.",
+        "name": "FRANTIŠEK BRÁZDIL",
+        "addressLabel": "ADRESA",
+        "address": "Tanvald 596, 468 41 Tanvald",
+        "phoneLabel": "TELEFON",
+        "phone": "+420 773 112 121",
+        "emailLabel": "EMAIL",
+        "email": "fr.brazdil@seznam.cz"
+      },
+      "hero": {
+        "title": "Ski Chata Špičák Tanvald",
+        "subtitle": "Ubytování pro velké skupiny u ski areálu Tanvaldský Špičák",
+        "description": "Nabízíme vám krásnou chatu v Tanvaldském Špičáku, ideální ubytování pro školní výlety a velké skupiny. Naše prostorné pokoje jsou také skvělou volbou pro rodinnou dovolenou.",
+        "callToAction": "Rezervujte nyní a zažijte krásné chvíle na horách s dobrodružstvím!",
+        "scrollDown": "Rolovat dolů"
+      },
+      "description": {
+        "title": "Popis našeho ubytování",
+        "paragraph1": "Naše okouzlující horská chata se nachází přímo na vrcholu lyžařského areálu Tanvaldský Špičák. Díky své poloze a vybavení je oblíbená u rodin s dětmi i u jednotlivců.",
+        "paragraph2": "Ráj pro lyžaře v zimě a dobrodružná dovolená v létě - to vše najdete na jednom místě.",
+        "paragraph3": "Tradičně zajišťujeme ubytování pro lyžařské tréninky, přírodní školy, školní výlety, zdravotní pobyty, narozeninové oslavy, svatby a firemní akce. Pokud máte zájem, organizujeme také programy pro tyto události.",
+        "paragraph4": "Naše chata nabízí pohodlné a prostorné ubytování pro různé potřeby. S kapacitou až 34 osob máme 4 pokoje, které jsou ideální pro velké skupiny, školní výlety nebo lyžařské kurzy. Každý pokoj je útulně zařízen a nabízí pohodlné postele pro odpočinek po náročném dni v horách.",
+        "paragraph5": "Pro ty, kteří preferují více soukromí, máme také apartmán pro 2-3 osoby. Tento apartmán je vybaven vlastním WC a koupelnou, což poskytuje nezávislost a soukromí během vašeho pobytu. Všechny pokoje a apartmány jsou vkusně zařízeny a poskytují útulný a teplý prostor, kde se můžete relaxovat a načerpat energii pro další zážitky v Tanvaldském Špičáku.",
+        "paragraph6": "Ski chata Špičák Tanvald nabízí nejen skvělé ubytování, ale také další výhody. Naše zrekonstruovaná restaurace, salonek a venkovní terasa s krbem a grilem jsou vhodné pro vaše společenská setkání. V zimě se těšíme na lyžaře a máme pro ně připravenou lyžárnu. V létě najdete různé atrakce pro děti a osvěžení v venkovním bazénu. A nezapomínáme ani na vaše domácí mazlíčky - pro ně máme v horkých dnech připravený psí bazén.",
+        "closing": "Těšíme se na vás a na společná dobrodružství, která nás čekají. Přijďte a vytvořte si své vlastní nezapomenutelné chvíle v Ski Chatě Špičák Tanvald."
+      },
+      "floorPlan": {
+        "title": "Rozložení naší chaty",
+        "firstFloor": "První patro",
+        "secondFloor": "Druhé patro"
+      },
+      
+        "accommodationInfo": {
+          "title": "Informace O Ubytování",
+          "interiorHeader": "Interiér",
+          "roomsTitle": "Pokoje",
+          "roomsList": [
+            "4 pokoje s kapacitou 34 lůžek (12, 10, 5, 4 lůžkové pokoje)",
+            "Pokoje využívají společné pánské i dámské WC se sprchovým koutem a 2 koupelnami s 5 sprchami",
+            "Pokoje jsou vybaveny patrovými postelemi, skříní s úložnými regály, stolkem a židlemi",
+            "Apartmán až pro 3 osoby s vlastní koupelnou a WC je vybaven manželskou postelí a jednolůžkovou postelí"
+          ],
+          "otherTitle": "Ostatní",
+          "otherList": [
+            "Zrekonstruovaná restaurace pro hosty",
+            "Salónek pro menší skupiny",
+            "Lyžárna pro ukládání lyží v zimní sezóně",
+            "Kolárna pro ukládání kol v letní sezóně"
+          ],
+          "exteriorHeader": "Exteriér",
+          "exteriorList": [
+            "Venkovní terasa s krásným výhledem a místem k posezení",
+            "Ohniště pro táborák a gril",
+            "Pro děti máme houpačky, skluzavky, pískoviště a trampolínu",
+            "Venkovní bazén pro osvěžení v letních měsících",
+            "Speciální bazén pro mazlíčky v horkých dnech",
+            "Parkování zajištěno na pozemku chaty"
+          ],
+          "generalHeader": "Obecně",
+          "generalList": [
+            "Chata sousedí s lanovkou pro snadný přístup na sjezdovky",
+            "Moderní restaurace bufetového typu, která nabízí českou i minutkovou kuchyni, lahodné dezerty a bohatý výběr studených i teplých nápojů kvalitního piva a vína",
+            "Pro naše ubytované hosty máme připravené snídaně, pro větší skupiny hostů pak nabízíme možnost polopenze nebo plné penze",
+            "Během letní sezóny jsou k dispozici míče a tenisové pálky pro sportovní aktivity v krásném okolí naší chaty",
+            "Možnost pořádání lyžařských výcviků, škol v přírodě, školních výletů, ozdravných pobytů, narozeninových párty, svateb a firemních akcí"
+          ]
+        },
+        "locationComponent": {
+          "title": "Lokace",
+          "address": "Adresa",
+          "addressDetails": "Tanvald 596, 468 41 Tanvaldský Špičák",
+          "description": "Chata Špičák Tanvald se pyšní výjimečnou lokalitou přímo u sjezdovek, což znamená, že můžete začít svůj lyžařský den přímo z našich dveří. Kromě toho jsme jen kousek od obchodů a k dispozici máme také venkovní bazén pro osvěžení.",
+          "visitPlacesButton": "Místa která navštívit v okolí"
+        },
+        "gallery": {
+          "title": "Fotogalerie Ski chata Špičák Tanvald",
+          "images": "images.json"
+          
+        },
+        "places": {
+          "title": "Místa, která navštívit v okolí tanvaldského špičáku"
+        }
+      
+      
+    
+    
+  }
