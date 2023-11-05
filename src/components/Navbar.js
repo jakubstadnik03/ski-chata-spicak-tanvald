@@ -23,8 +23,19 @@ function MyNavbar() {
     i18n.changeLanguage(lng);
     localStorage.setItem("i18nextLng", lng);
 
-    const currentPath = window.location.pathname.replace(/^\/(en|de|cs)?/, "");
-    navigate(`/${lng}${currentPath}`);
+    // Extract the pathname and remove the leading language segment if present
+    let currentPath = window.location.pathname
+      .replace(/^\/en/, "")
+      .replace(/^\/de/, "")
+      .replace(/^\/cs/, "");
+
+    // Ensure the path starts with a slash
+    currentPath = currentPath.startsWith("/") ? currentPath : `/${currentPath}`;
+
+    // Construct the new path with the selected language
+    const newPath = lng === "cs" ? currentPath : `/${lng}${currentPath}`;
+
+    navigate(newPath);
   };
 
   const LocalizedLink = ({ to, children, ...props }) => {
@@ -81,7 +92,7 @@ function MyNavbar() {
             </LocalizedHashLink>
             <Nav.Link
               as={LocalizedLink}
-              to="/rezervovat"
+              to="#"
               className="rezervovat-btn text-white"
             >
               {t("nav.book")}

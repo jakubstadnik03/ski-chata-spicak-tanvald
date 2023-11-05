@@ -22,7 +22,7 @@ const HeroSection = () => {
       imgSrc: "/img/gallery/1697813100278.jpeg",
     },
     {
-      imgSrc: "/img/gallery/1697813233478.jpeg",
+      imgSrc: "/img/gallery/FB_IMG_1697812283144.jpg",
     },
   ];
 

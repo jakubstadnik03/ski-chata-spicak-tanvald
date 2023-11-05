@@ -5,14 +5,13 @@ import places from "./data/places.json";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { useTranslation } from "react-i18next"; // import useTranslation
-
+import { Helmet, HelmetProvider } from "react-helmet-async";
 const PlaceDetails = () => {
-  const { id } = useParams();
   const { t, i18n } = useTranslation();
   const currentLanguage = i18n.language; // Get current language
   const data = places[currentLanguage] || places.cs; // Default to English if undefined
-  // use the useTranslation hook
-  const place = data.find((p) => `${p.id}` === id);
+  const { placeSlug } = useParams();
+  const place = data.find((p) => p.url === placeSlug);
 
   // Handle the case when a place is not found
   if (!place) {
@@ -21,6 +20,13 @@ const PlaceDetails = () => {
 
   return (
     <div className="app-container">
+      <HelmetProvider>
+        <Helmet>
+          <title>
+            {t(place.title)} – Průvodce Aktivitami od Ski Chaty Špičák Tanvald
+          </title>
+        </Helmet>
+      </HelmetProvider>
       <Navbar />
       <Container className="place-details mt-5 content-wrapper">
         <Row>

@@ -2,6 +2,7 @@
  "cs":[ 
    {
       "id": 1,
+      "url": "tajemnyles-tanvaldsky-spicak",
       "title": "Tajemný Les Tanvaldský Špičák",
       "shortImage": "tajemny-les-1.jpeg",
       "description": "Tanvaldský Špičák, klenot České republiky, je nejen rájem pro lyžaře a snowboardisty, ale také místo, kde příroda odkrývá svá tajemství a historie vypráví své příběhy. Jedním z takových míst, které stojí za to navštívit, je 'Tajemný Les Tanvaldský Špičák'. Vstupte do srdce tohoto prastarého lesa, kde každý strom, každá květina a každý kámen má svoji vlastní, jedinečnou historii. Les oplývá rozmanitou flórou a faunou, která překvapí nejen milovníky přírody, ale i ty, kteří hledají místo pro odpočinek a relaxaci od ruchu moderního světa.",
@@ -10,6 +11,7 @@
     },
       {
         "id": 2,
+        "url": "skalni-vyhlidka-certuv-kamen",
         "title": "Skalní vyhlídka Čertův kámen",
         "shortImage": "certuv-kamen-1.jpeg",
         "description": "Čertův kámen nabízí nezapomenutelné panoramatické výhledy na krajinu Jizerských hor. Skála, ze které se vyhlíží do dalekých končin, je oblíbeným místem pro fotografy a turisty hledající klidné místo pro piknik či odpočinek.",
@@ -18,6 +20,7 @@
       },
       {
         "id": 3,
+        "url": "zricenina-hradu-navrh",
         "title": "Zřícenina hradu Návarov",
         "shortImage": "navarov-ruins-1.jpeg",
         "description": "Historie se probouzí mezi troskami hradu Návarov, který stojí jako němý svědek dávných časů. Prozkoumejte zříceninu, objevte staré legendy a užijte si výhled na okolní lesy a údolí.",
@@ -26,6 +29,7 @@
       },
       {
         "id": 4,
+        "url": "skiareal-tanvaldsky-spicak",
         "title": "Skiareál Tanvaldský Špičák",
         "shortImage": "ski-spicak-1.jpeg",
         "description": "Skiareál Tanvaldský Špičák, s jeho moderními vleky a širokou nabídkou sjezdovek, je ideálním místem pro všechny zimní sportovce. Od rodin s dětmi po vášnivé lyžaře, zde každý najde svůj oblíbený svah. Osvětlené večerní sjezdovky přinášejí lyžování v novém rozměru, zatímco kvalitně udržované běžecké trasy lákají milovníky bílé stopy.",
@@ -38,6 +42,7 @@
       },
       {
         "id": 5,
+        "url": "vodopady-svetla-pod-tanvaldskym-spicakem",
         "title": "Vodopády Světlá pod Tanvaldským Špičákem",
         "shortImage": "svetla-waterfalls-1.jpeg",
         "description": "Řeka Kamenice přináší návštěvníkům série kaskádovitých vodopádů zvaných Vodopády Světlá. Ponořte se do zvuků přírody a pozorujte, jak voda tančí přes skalnaté překážky na své cestě k řece.",
@@ -46,6 +51,7 @@
       },
       {
         "id": 6,
+        "url": "rozhledna-stepanka",
         "title": "Rozhledna Štěpánka na hřebeni Jizerských hor",
         "shortImage": "stepanka-lookout-1.jpeg",
         "description": "Rozhledna Štěpánka, umístěná na vrcholku Jizerských hor, nabízí dechberoucí výhledy na okolní krajinu. Vyšplhejte na vrchol a nechte svůj pohled bloudit od Tanvaldského Špičáku až po horizont.",
@@ -57,6 +63,7 @@
   "en": [
     {
       "id": 1,
+      "url": "tajemnyles-tanvaldsky-spicak",
       "title": "Mysterious Forest of Tanvaldský Špičák",
       "shortImage": "tajemny-les-1.jpeg",
       "description": "Tanvaldský Špičák, a gem of the Czech Republic, is not only a paradise for skiers and snowboarders, but also a place where nature reveals its secrets and history tells its stories. One such place worth visiting is the 'Mysterious Forest of Tanvaldský Špičák'. Enter the heart of this ancient forest, where every tree, every flower, and every stone has its own unique history. The forest boasts diverse flora and fauna that will surprise not only nature lovers but also those seeking a place to relax and unwind from the hustle and bustle of the modern world.",
@@ -65,6 +72,7 @@
     },
     {
       "id": 2,
+      "url": "skalni-vyhlidka-certuv-kamen",
       "title": "Rocky Lookout Devil's Stone",
       "shortImage": "certuv-kamen-1.jpeg",
       "description": "Devil's Stone offers unforgettable panoramic views of the Jizera Mountains landscape. The rock from which you can look into distant lands is a popular spot for photographers and tourists seeking a peaceful place for a picnic or rest.",
@@ -73,6 +81,7 @@
     },
     {
       "id": 3,
+      "url": "zricenina-hradu-navrh",
       "title": "Ruins of Návarov Castle",
       "shortImage": "navarov-ruins-1.jpeg",
       "description": "History awakens among the ruins of Návarov Castle, standing as a silent witness of ancient times. Explore the ruins, discover old legends, and enjoy the views of the surrounding forests and valleys.",
@@ -81,6 +90,7 @@
     },
     {
       "id": 4,
+      "url": "skiareal-tanvaldsky-spicak",
       "title": "Tanvaldský Špičák Ski Resort",
       "shortImage": "ski-spicak-1.jpeg",
       "description": "The Tanvaldský Špičák Ski Resort, with its modern lifts and wide range of slopes, is the ideal place for all winter sports enthusiasts. From families with children to passionate skiers, everyone will find their favorite slope here. The illuminated evening slopes offer skiing in a new dimension, while the well-maintained cross-country trails attract lovers of the white trail.",
@@ -89,6 +99,7 @@
     },
     {
       "id": 5,
+      "url": "vodopady-svetla-pod-tanvaldskym-spicakem",
       "title": "Světlá Waterfalls under Tanvaldský Špičák",
       "shortImage": "svetla-waterfalls-1.jpeg",
       "description": "The Kamenice River brings visitors a series of cascading waterfalls called Světlá Waterfalls. Immerse yourself in the sounds of nature and watch the water dance over rocky obstacles on its way to the river.",
@@ -97,6 +108,7 @@
     },
     {
       "id": 6,
+      "url": "rozhledna-stepanka",
       "title": "Štěpánka Lookout Tower on the Ridge of the Jizera Mountains",
       "shortImage": "stepanka-lookout-1.jpeg",
       "description": "The Štěpánka Lookout Tower, located at the summit of the Jizera Mountains, offers breathtaking views of the surrounding landscape. Climb to the top and let your gaze wander from Tanvaldský Špičák to the horizon.",
@@ -107,6 +119,8 @@
   "de":[
     {
       "id": 1,
+      "url": "tajemnyles-tanvaldsky-spicak",
+
       "title": "Der geheimnisvolle Wald des Tanvaldský Špičák",
       "shortImage": "tajemny-les-1.jpeg",
       "description": "Der Tanvaldský Špičák, ein Juwel der Tschechischen Republik, ist nicht nur ein Paradies für Skifahrer und Snowboarder, sondern auch ein Ort, an dem die Natur ihre Geheimnisse enthüllt und die Geschichte ihre Geschichten erzählt. Einer dieser Orte, die einen Besuch wert sind, ist der 'Geheimnisvolle Wald des Tanvaldský Špičák'. Betreten Sie das Herz dieses uralten Waldes, in dem jeder Baum, jede Blume und jeder Stein seine eigene, einzigartige Geschichte hat. Der Wald zeichnet sich durch eine vielfältige Flora und Fauna aus, die nicht nur Naturliebhaber überrascht, sondern auch diejenigen, die einen Ort zur Entspannung und Erholung vom Trubel der modernen Welt suchen.",
@@ -115,6 +129,8 @@
     },
     {
       "id": 2,
+      "url": "skalni-vyhlidka-certuv-kamen",
+
       "title": "Felsen-Aussichtspunkt Čertův kámen",
       "shortImage": "certuv-kamen-1.jpeg",
       "description": "Čertův kámen bietet unvergessliche Panoramablicke auf die Landschaft des Isergebirges. Der Fels, von dem aus man in die Ferne schaut, ist ein beliebter Ort für Fotografen und Touristen, die einen ruhigen Ort für ein Picknick oder zum Entspannen suchen.",
@@ -123,6 +139,8 @@
     },
     {
       "id": 3,
+      "url": "zricenina-hradu-navrh",
+
       "title": "Die Ruinen der Burg Návarov",
       "shortImage": "navarov-ruins-1.jpeg",
       "description": "Die Geschichte erwacht in den Ruinen der Burg Návarov, die als stummer Zeuge vergangener Zeiten steht. Erkunden Sie die Ruine, entdecken Sie alte Legenden und genießen Sie die Aussicht auf die umliegenden Wälder und Täler.",
@@ -131,6 +149,8 @@
     },
     {
       "id": 4,
+      "url": "skiareal-tanvaldsky-spicak",
+
       "title": "Skigebiet Tanvaldský Špičák",
       "shortImage": "ski-spicak-1.jpeg",
       "description": "Das Skigebiet Tanvaldský Špičák, mit seinen modernen Liften und einer breiten Auswahl an Pisten, ist der ideale Ort für alle Wintersportler. Von Familien mit Kindern bis hin zu passionierten Skifahrern, hier findet jeder seine Lieblingsabfahrt. Beleuchtete Abendpisten bringen das Skifahren in eine neue Dimension, während gut gepflegte Langlaufloipen Liebhaber der weißen Spur anlocken.",
@@ -143,6 +163,8 @@
     },
     {
       "id": 5,
+      "url": "vodopady-svetla-pod-tanvaldskym-spicakem",
+
       "title": "Die Wasserfälle Světlá unter dem Tanvaldský Špičák",
       "shortImage": "svetla-waterfalls-1.jpeg",
       "description": "Der Fluss Kamenice präsentiert den Besuchern eine Serie von kaskadenartigen Wasserfällen, die als Wasserfälle Světlá bekannt sind. Tauchen Sie ein in die Geräusche der Natur und beobachten Sie, wie das Wasser über felsige Hindernisse auf seinem Weg zum Fluss tanzt.",
@@ -151,6 +173,8 @@
     },
     {
       "id": 6,
+      "url": "rozhledna-stepanka",
+
       "title": "Aussichtsturm Štěpánka auf dem Kamm des Isergebirges",
       "shortImage": "stepanka-lookout-1.jpeg",
       "description": "Der Aussichtsturm Štěpánka, gelegen auf dem Gipfel des Isergebirges, bietet atemberaubende Ausblicke auf die umliegende Landschaft. Erklimmen Sie die Spitze und lassen Sie Ihren Blick vom Tanvaldský Špičák bis zum Horizont schweifen.",

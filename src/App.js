@@ -9,6 +9,8 @@ import Footer from "./components/Footer";
 import PopisUbytovani from "./components/PopisUbytovani";
 import React, { useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
+import { Helmet, HelmetProvider } from "react-helmet-async";
+
 function App() {
   const navigate = useNavigate();
   const { lang } = useParams();
@@ -20,6 +22,13 @@ function App() {
   }, [lang, navigate]);
   return (
     <>
+      <HelmetProvider>
+        <Helmet>
+          <title>
+            O naší firmě | AKZ Advokátní kancelář Zrnovský & Zrnovská
+          </title>
+        </Helmet>
+      </HelmetProvider>
       <Navbar />
       <main>
         <HeroSection />

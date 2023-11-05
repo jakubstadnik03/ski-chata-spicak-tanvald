@@ -1,8 +1,27 @@
-import React from "react";
 import { useTranslation } from "react-i18next";
+import React, { useEffect, useState } from "react";
+import { Link, useParams } from "react-router-dom";
 
 const LokaceComponent = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const { lang } = useParams();
+  const [currentLang, setCurrentLang] = useState(i18n.language);
+  useEffect(() => {
+    const language = lang || "cs";
+    setCurrentLang(language);
+    if (i18n.language !== language) {
+      i18n.changeLanguage(language);
+    }
+  }, [lang, i18n]);
+
+  const LocalizedLink = ({ to, children, ...props }) => {
+    const localizedPath = currentLang !== "cs" ? `/${currentLang}${to}` : to;
+    return (
+      <Link to={localizedPath} {...props}>
+        {children}
+      </Link>
+    );
+  };
 
   return (
     <section style={{ backgroundColor: "black" }} className="p-md-5">
@@ -30,12 +49,13 @@ const LokaceComponent = () => {
             <p style={{ maxWidth: "400px" }}>
               {t("locationComponent.description")}
             </p>
-            <button
+            <LocalizedLink
+              to="/kam-na-vylet"
               className="rezervovat-btn text-white"
               style={{ padding: "10px" }}
             >
               {t("locationComponent.visitPlacesButton")}
-            </button>
+            </LocalizedLink>
           </div>
         </div>
       </div>
