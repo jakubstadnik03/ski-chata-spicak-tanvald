@@ -11,7 +11,7 @@ const ContactForm = () => {
       id="kontakt"
     >
       <div className="overlay">
-        <div className="title-black title flex-column align-items-center max-width">
+        <div className="title-black title flex-column align-items-center max-width mb-lg-3">
           <h2>{t("contact.title")}</h2>
           <p style={{ textTransform: "none" }}>{t("contact.subtitle")}</p>
         </div>

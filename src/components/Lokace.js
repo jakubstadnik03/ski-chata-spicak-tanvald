@@ -24,12 +24,12 @@ const LokaceComponent = () => {
   };
 
   return (
-    <section style={{ backgroundColor: "black" }} className="p-md-5">
+    <section style={{ backgroundColor: "black" }} className="p-md-4">
       <div
         className="container max-width-m"
         style={{ color: "white", paddingBottom: "10px" }}
       >
-        <h2 className="text-center max-width title-black title mb-4">
+        <h2 className="text-center max-width title-black title mb-5">
           {t("locationComponent.title")}
         </h2>
         <div className="d-md-flex justify-content-center">

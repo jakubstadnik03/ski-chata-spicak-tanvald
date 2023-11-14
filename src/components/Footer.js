@@ -11,7 +11,7 @@ const Footer = () => {
           <img src="/svg/logo-skichata-spicak-tanvald.svg" alt="" />
         </a>
         <div className="line"></div>
-        <div className="social-wrapper d-sm-flex flex-column flex-lg-row justify-content-center align-items-center">
+        <div className="social-wrapper d-flex flex-column flex-lg-row flex-lg-row justify-content-center align-items-center">
           <a
             href="https://www.facebook.com/profile.php?id=100090236622013"
             target="_blank"

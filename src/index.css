@@ -63,4 +63,7 @@ p{
   line-height: 1.2;
   margin-bottom: 5px !important;
 }
+h2 {
+  font-size: 1.3em !important;
+}
 }

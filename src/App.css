@@ -31,6 +31,7 @@
 .hero-section .carousel-item img {
   height: 100vh;
   object-fit: cover;
+  object-position: bottom;
 }
 .place-details {
   padding: 50px 0;
@@ -88,7 +89,8 @@
   padding: 50px;
 }
 .popis-ubytovani {
-  margin-bottom: -30px;
+  margin-bottom: -40px;
+  margin-top: -64px;
 }
 /* Navbar styling to make it overlay on top of the carousel (adjust as per your navbar styles) */
 .navbar {
@@ -269,7 +271,7 @@ font-size: 18px !important;
   height: 70vh;
 }
 .hero-section {
-  top: -80px;
+  top: -95px;
 }
 .contact-container {
   height: 90vh;
@@ -277,11 +279,16 @@ font-size: 18px !important;
 .overlay {
   padding: 20px 0;
 }
-.rozlozeni{
-  margin-bottom: -45px;
-}
 .popis-ubytovani{
   margin-bottom: -30px;
-  margin-top: 0;
+  margin-top: -45px;
+}
+}
+@media (max-width: 400px) {
+  .popis-ubytovani {
+    margin-top: 10px;
+  }
+  .contact-container {
+    height: 115vh;
 }
 }

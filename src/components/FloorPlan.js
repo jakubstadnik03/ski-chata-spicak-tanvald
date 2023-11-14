@@ -5,12 +5,12 @@ const FloorPlan = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="container mt-4 max-width max-width-m rozlozeni">
-      <div className="max-width title-black title mb-4">
+    <div className="container mt-lg-4 mt-2 max-width max-width-m rozlozeni">
+      <div className="max-width title-black title mb-lg-4 mb-2">
         <h2>{t("floorPlan.title")}</h2>
       </div>
       <div className="d-md-flex justify-content-center">
-        <div className="m-5">
+        <div className="m-lg-4 m-3 mt-0">
           <img
             src="/img/pudorys.png"
             alt={t("floorPlan.firstFloor")}
@@ -21,7 +21,7 @@ const FloorPlan = () => {
             <h4>{t("floorPlan.firstFloor")}</h4>
           </div>
         </div>
-        <div className="m-5">
+        <div className="m-lg-4 m-3">
           <img
             src="/img/pudorys.png"
             alt={t("floorPlan.secondFloor")}

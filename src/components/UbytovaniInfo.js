@@ -8,14 +8,14 @@ const UbytovaniInfo = () => {
   return (
     <section style={{ backgroundColor: "black" }}>
       <Container className="mt-5" style={{ color: "#FFFFFF" }}>
-        <h2 className="max-width title-black title mb-5 pt-5">
+        <h2 className="max-width title-black title mb-lg-5 mb-3 pt-lg-5 pt-3">
           {t("accommodationInfo.title")}{" "}
           {/* Use the t function to get translated text */}
         </h2>
         <Row>
           <Col md={4} className="mb-4">
             <div className="p-4 border info-col h-100">
-              <h3 className="text-center mb-4 ">
+              <h3 className="text-center mb-lg-4 mb-2 ">
                 {t("accommodationInfo.interiorHeader")}
               </h3>
               <ul>
