@@ -91,6 +91,18 @@ const ContactForm = () => {
                   {t("contact.email")}
                 </a>
               </p>
+              <p>
+                <strong>{t("contact.open")}</strong>
+                <br />
+                Zimní sezóna: Pondělí - Neděle, 9:00 - 17:00 hodin
+                <br />
+                <a
+                  href="tel:774060031" // Aktualizované telefonní číslo
+                  style={{ color: "initial" }}
+                >
+                  774060031
+                </a>
+              </p>
             </div>
           </div>
         </div>

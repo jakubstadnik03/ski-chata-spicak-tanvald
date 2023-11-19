@@ -90,13 +90,12 @@ function MyNavbar() {
             <LocalizedHashLink to="/#kontakt" className="nav-link">
               {t("nav.contact")}
             </LocalizedHashLink>
-            <Nav.Link
-              as={LocalizedLink}
-              to="#"
+            {/* <LocalizedHashLink
+              to="/#kontakt"
               className="rezervovat-btn text-white"
             >
               {t("nav.book")}
-            </Nav.Link>
+            </LocalizedHashLink> */}
             {currentLang !== "en" && (
               <Nav.Link as="button" onClick={() => changeLanguage("en")}>
                 EN

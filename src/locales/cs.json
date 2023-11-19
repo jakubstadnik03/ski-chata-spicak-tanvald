@@ -28,12 +28,15 @@
         "phoneLabel": "TELEFON",
         "phone": "+420 773 112 121",
         "emailLabel": "EMAIL",
-        "email": "fr.brazdil@seznam.cz"
+        "email": "fr.brazdil@seznam.cz",
+        "open": "Provozní doba:",
+        "openText": "Zimní sezóna: Pondělí - Neděle, 9:00 - 17:00 hodin"
+
       },
       "hero": {
         "title": "Ski Chata Špičák Tanvald",
-        "subtitle": "Ubytování pro velké skupiny u ski areálu Tanvaldský Špičák",
-        "description": "Nabízíme vám krásnou chatu v Tanvaldském Špičáku, ideální ubytování pro školní výlety a velké skupiny. Naše prostorné pokoje jsou také skvělou volbou pro rodinnou dovolenou.",
+        "subtitle": "Ubytování pro velké skupiny na samotném vrcholu ski areálu Tanvaldský Špičák, v srdci lesa.",
+        "description": "Ideální ubytování pro školní výlety a velké skupiny. Naše prostorné pokoje jsou také skvělou volbou pro rodinnou dovolenou.",
         "callToAction": "Rezervujte nyní a zažijte krásné chvíle na horách s dobrodružstvím!",
         "scrollDown": "Rolovat dolů"
       },

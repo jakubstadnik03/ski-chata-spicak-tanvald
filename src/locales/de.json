@@ -28,7 +28,10 @@
         "phoneLabel": "TELEFON",
         "phone": "+420 773 112 121",
         "emailLabel": "E-MAIL",
-        "email": "fr.brazdil@seznam.cz"
+        "email": "fr.brazdil@seznam.cz",
+        "open": "Betriebszeiten:",
+        "openText": "Wintersaison: Montag - Sonntag, 9:00 - 17:00 Uhr."
+
       },
       "hero": {
         "carouselAlt": "Folie {{index}}",
