@@ -24,9 +24,7 @@ function App() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>
-            O naší firmě | AKZ Advokátní kancelář Zrnovský & Zrnovská
-          </title>
+          <title>Ubytování pro velké skupiny | Ski chata Špičák Tanvald</title>
         </Helmet>
       </HelmetProvider>
       <Navbar />
@@ -34,7 +32,7 @@ function App() {
         <HeroSection />
         <PopisUbytovani />
         <UbytovaniInfo />
-        <FloorPlan />
+        {/* <FloorPlan /> */}
         <LokaceComponent />
         <ContactForm />
       </main>
