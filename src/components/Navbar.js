@@ -9,6 +9,10 @@ function MyNavbar() {
   const { lang } = useParams();
   const { t, i18n } = useTranslation();
   const [currentLang, setCurrentLang] = useState(i18n.language);
+  const [expanded, setExpanded] = useState(false);
+
+  // Function to close the navbar
+  const closeNavbar = () => setExpanded(false);
 
   useEffect(() => {
     const language = lang || "cs";
@@ -36,6 +40,7 @@ function MyNavbar() {
     const newPath = lng === "cs" ? currentPath : `/${lng}${currentPath}`;
 
     navigate(newPath);
+    closeNavbar();
   };
 
   const LocalizedLink = ({ to, children, ...props }) => {
@@ -67,8 +72,15 @@ function MyNavbar() {
         expand="lg"
         variant="dark"
         className="navbar-text max-width bg-transparent "
+        expanded={expanded}
+        onToggle={setExpanded}
       >
-        <Navbar.Brand as={LocalizedLink} to="/" className="mx-2">
+        <Navbar.Brand
+          as={LocalizedLink}
+          to="/"
+          className="mx-2"
+          onSelect={closeNavbar}
+        >
           <img
             src="/svg/logo-skichata-spicak-tanvald.svg"
             alt="ski chata logo"
@@ -78,16 +90,28 @@ function MyNavbar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
           <Nav className="ml-auto">
-            <Nav.Link as={LocalizedLink} to="/">
+            <Nav.Link as={LocalizedLink} to="/" onSelect={closeNavbar}>
               {t("nav.home")}
             </Nav.Link>
-            <Nav.Link as={LocalizedLink} to="/fotogalerie">
+            <Nav.Link
+              as={LocalizedLink}
+              to="/fotogalerie"
+              onSelect={closeNavbar}
+            >
               {t("nav.gallery")}
             </Nav.Link>
-            <Nav.Link as={LocalizedLink} to="/kam-na-vylet">
+            <Nav.Link
+              as={LocalizedLink}
+              to="/kam-na-vylet"
+              onSelect={closeNavbar}
+            >
               {t("nav.excursions")}
             </Nav.Link>
-            <LocalizedHashLink to="/#kontakt" className="nav-link">
+            <LocalizedHashLink
+              to="/#kontakt"
+              className="nav-link"
+              onSelect={closeNavbar}
+            >
               {t("nav.contact")}
             </LocalizedHashLink>
             {/* <LocalizedHashLink
@@ -97,17 +121,29 @@ function MyNavbar() {
               {t("nav.book")}
             </LocalizedHashLink> */}
             {currentLang !== "en" && (
-              <Nav.Link as="button" onClick={() => changeLanguage("en")}>
+              <Nav.Link
+                as="button"
+                onClick={() => changeLanguage("en")}
+                onSelect={closeNavbar}
+              >
                 EN
               </Nav.Link>
             )}
             {currentLang !== "de" && (
-              <Nav.Link as="button" onClick={() => changeLanguage("de")}>
+              <Nav.Link
+                as="button"
+                onClick={() => changeLanguage("de")}
+                onSelect={closeNavbar}
+              >
                 DE
               </Nav.Link>
             )}
             {currentLang !== "cs" && (
-              <Nav.Link as="button" onClick={() => changeLanguage("cs")}>
+              <Nav.Link
+                as="button"
+                onClick={() => changeLanguage("cs")}
+                onSelect={closeNavbar}
+              >
                 CS
               </Nav.Link>
             )}

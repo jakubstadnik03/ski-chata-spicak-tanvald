@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import "./App.css";
 import HeroSection from "./components/HeroSection";
 import UbytovaniInfo from "./components/UbytovaniInfo";
-import FloorPlan from "./components/FloorPlan";
+// import FloorPlan from "./components/FloorPlan";
 import LokaceComponent from "./components/Lokace";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";

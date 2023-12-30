@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Carousel } from "react-bootstrap";
 import { useTranslation } from "react-i18next"; // Import the hook
-
+import { HashLink } from "react-router-hash-link";
 const HeroSection = () => {
   const [index, setIndex] = useState(0);
   const { t } = useTranslation(); // Initialize the translation hook
@@ -47,13 +47,13 @@ const HeroSection = () => {
           {t("hero.callToAction")}
         </p>
       </div>
-      <a href="#ubytovani">
+      <HashLink to="#ubytovani">
         <img
           src="/svg/icon-down.svg"
           alt={t("hero.scrollDown")}
           className="icon-down"
         />
-      </a>
+      </HashLink>
     </div>
   );
 };

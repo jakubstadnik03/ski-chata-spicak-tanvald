@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <footer>
@@ -7,9 +7,9 @@ const Footer = () => {
         className="footer-content p-2 d-flex justify-content-center"
         style={{ backgroundColor: "black" }}
       >
-        <a href="/" className="d-flex">
+        <Link to="/" className="d-flex">
           <img src="/svg/logo-skichata-spicak-tanvald.svg" alt="" />
-        </a>
+        </Link>
         <div className="line"></div>
         <div className="social-wrapper d-flex flex-column flex-lg-row flex-lg-row justify-content-center align-items-center">
           <a

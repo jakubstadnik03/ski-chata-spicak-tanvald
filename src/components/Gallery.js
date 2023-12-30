@@ -38,7 +38,11 @@ const CottageGallery = () => {
                     className="gallery-card"
                     onClick={() => openModal(category, index)}
                   >
-                    <Card.Img variant="top" src={`/img/gallery/${photo.img}`} />
+                    <Card.Img
+                      variant="top"
+                      src={`/img/gallery/${photo.img}`}
+                      loading="lazy"
+                    />
                     <Card.Body>
                       <Card.Text>{photo.desc}</Card.Text>
                     </Card.Body>
@@ -65,6 +69,7 @@ const CottageGallery = () => {
                       className="d-block w-100"
                       src={`/img/gallery/${photo.img}`}
                       alt={photo.desc}
+                      loading="lazy"
                     />
                     <Carousel.Caption>
                       <p>{photo.desc}</p>

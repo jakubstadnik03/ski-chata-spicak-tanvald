@@ -292,3 +292,8 @@ font-size: 18px !important;
     height: 115vh;
 }
 }
+@media (max-width: 380px) {
+.contact-container {
+    height: 128vh;
+}
+}
