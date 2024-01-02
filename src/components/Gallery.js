@@ -40,7 +40,7 @@ const CottageGallery = () => {
                   >
                     <Card.Img
                       variant="top"
-                      src={`/img/gallery/${photo.img}`}
+                      src={`/img/gallery/${photo.smallImg}`}
                       loading="lazy"
                     />
                     <Card.Body>

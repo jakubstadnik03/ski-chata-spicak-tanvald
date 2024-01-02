@@ -296,4 +296,13 @@ font-size: 18px !important;
 .contact-container {
     height: 128vh;
 }
+.place-details {
+  padding: 10px;
+}
+.place-carousel .carousel-image {
+  height: 249px;
+}
+.description-text, .address-text{
+  font-size: 1em;
+}
 }

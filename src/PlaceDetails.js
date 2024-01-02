@@ -28,7 +28,7 @@ const PlaceDetails = () => {
         </Helmet>
       </HelmetProvider>
       <Navbar />
-      <Container className="place-details mt-5 content-wrapper">
+      <Container className="place-details mt-lg-5 content-wrapper">
         <Row>
           <Col md={6}>
             <h1 className="mb-4">{t(place.title)}</h1>{" "}
